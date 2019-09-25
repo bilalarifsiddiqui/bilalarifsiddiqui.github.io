@@ -24,17 +24,10 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url('https://static.pexels.com/photos/133459/pexels-photo-133459.jpeg') !important;
+  background-image: url('header.jpg') !important;
   background-size: cover;
   height: 100%;
 }
-
-.startup
-{
-	margin :0px auto !important;
-}
-
-
 
 header.startup hr {
   margin-top: 200px;
